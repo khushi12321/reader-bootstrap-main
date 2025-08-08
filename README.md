@@ -7,12 +7,14 @@ This idea for this website was discussed by a team of three members:
 - Sichu Maharjan (UI/UX Designer) -- https://github.com/Sichu-Maharjan
 - Aviyaan Shrestha (Content Manager) -- https://github.com/aviiii26
 
-We researched for a suitable available template for our website idea online and found one on Themefisher (https://themefisher.com/products/reader-bootstrap). After which, we changed the source code along with certain elements and added a few things to make the template our own. 
+We researched for a suitable available template for our website idea online and found one on [Themefisher](https://themefisher.com/products/reader-bootstrap). After which, we changed the source code along with certain elements and added a few things to make the template our own. 
 The website is still in DEVELOPMENT PHASE!
 
 GIT
 To download and use the very latest source off the Git server, do this:
+```
 git clone https://github.com/khushi12321/reader-bootstrap-main.git
+```
 (You'll get a directory named reader-bootstrap-main created filled with the source code)
 
 WE ARE OPEN TO CONTRIBUTIONS, so please contact us on khushishrestha002@gmail.com for any positive and helpful changes to the website.
