@@ -1,5 +1,28 @@
-# Reader Free Bootstrap Blog Template
+PAYA - LEARNING BOOTSTRAP BY MODIFYING TEMPLATES
 
+"Paya" is an online art/museum gallery containing the information about the musuems/galleries present in the local community and the type of arts that they showcase. It classifies the types of art present in the particular museum/art gallery into different categories such as sculptures, painting, architectures and more based on the type of the institution it is.
+
+This idea for this website was discussed by a team of three members:
+- Khushi Shrestha (Git Manager, Team lead) -- https://github.com/khushi12321
+- Sichu Maharjan (UI/UX Designer) -- https://github.com/Sichu-Maharjan
+- Aviyaan Shrestha (Content Manager) -- https://github.com/aviiii26
+
+We researched for a suitable available template for our website idea online and found one on [Themefisher](https://themefisher.com/products/reader-bootstrap). After which, we changed the source code along with certain elements and added a few things to make the template our own. 
+The website is still in DEVELOPMENT PHASE!
+
+GIT
+To download and use the very latest source off the Git server, do this:
+```
+git clone https://github.com/khushi12321/reader-bootstrap-main.git
+```
+(You'll get a directory named reader-bootstrap-main created filled with the source code)
+
+WE ARE OPEN TO CONTRIBUTIONS, so please contact us on khushishrestha002@gmail.com for any positive and helpful changes to the website.
+
+
+
+BOOTSTRAP TEMPLATE
+# Reader Free Bootstrap Blog Template
 ![reader](https://demo.themefisher.com/thumbnails/reader.png)
 
 👉🏻[View Live Preview](https://demo.themefisher.com/reader/)
@@ -10,65 +33,15 @@
 Download this template from [Github](https://github.com/themefisher/reader/archive/main.zip)
 
 <!-- installation -->
-### Basic Usages
-
-After downloading the template, you can simply edit the HTML and CSS files from the `theme` folder. To preview the changes you make to the code, you can open the index.html file in your web browser.
-
-### Advanced Usage
-
-For advanced usage, you have some prerequisites to install. Then you can run it on your localhost. You can view the package.json file to see which scripts are included.
-
 #### Install prerequisites (once for a machine)
 
 * **Node Installation:** [Install node js](https://nodejs.org/en/download/)
 * **Gulp Installation:** Install gulp globally from your terminal
-
 ```
 npm install --global gulp-cli
 ```
-
 Or visit the original [Gulp docs](https://gulpjs.com/docs/en/getting-started/quick-start)
 
-#### Local setup
-
-After successfully installing those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
-
-* Install dependencies
-
-```
-npm install
-```
-
-* Run locally
-
-```
-npm run dev
-```
-
-After that, it will open up a preview of the template in your default browser, watch for changes to source files, and live reload the browser when changes are saved.
-
-#### Production Build
-
-After finishing all the customization, you can create a production build by running this command.
-
-```
-npm run build
-```
-
-Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
-
-👉🏻 [visit documentation](https://docs.themefisher.com/reader/)
-
-<!-- reporting issue -->
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the reader Template. Please Search [existing issues](https://github.com/themefisher/reader/issues). It’s possible someone has already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/reader/issues).
-
-<!-- support -->
-## Technical Support or Questions (Paid)
-
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
 <!-- licence -->
 ## License
